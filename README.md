@@ -8,14 +8,14 @@ RQ2: **Feasibility** - Can applications constructed by users successfully execut
 
 The spatial topology and device deployment for each environment can be referenced in Figure 1,2,3. In each environment, we will deploy the corresponding architecture and define the respective events and actions(see Figure 4,5). 
 
-![Spatial Topology and Device Deployment of Building](images/building.jpg "Spatial Topology and Device Deployment of Building")
+![Spatial Topology and Device Deployment of Building](laTAPE/images/building.jpg)
 *Figure 1: Spatial Topology and Device Deployment of Building*
 
-![Spatial Topology and Device Deployment of Home](images/home.jpg)
+![Spatial Topology and Device Deployment of Home](laTAPE/images/home.jpg)
 *Figure 2: Spatial Topology and Device Deployment of Home*
 
-![Spatial Topology and Device Deployment of Office](images/office.jpg)
-*Figure 3: Spatial Topology and Device Deployment of Office*
+![Spatial Topology and Device Deployment of Office](laTAPE/images/office.jpg)
+
 
 | Event Name | Event Description |
 | -------- | -------- |
