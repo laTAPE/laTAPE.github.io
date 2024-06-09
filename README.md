@@ -11,7 +11,7 @@ youtube:
 
 bilibili:
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1705571936&bvid=BV1UT421Y7uN&cid=1576412929&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+[![laTAPE](https://img.youtube.com/vi/iUK_eJI3uTA/0.jpg)]([https://youtu.be/iUK_eJI3uTA](https://www.bilibili.com/video/BV1UT421Y7uN/?spm_id_from=333.1365.list.card_archive.click&vd_source=1b037b28940b8ce1b3a175345887901b) "laTAPE")
 
 We evaluated laTAPE in three environments (smart office, smart building, and smart home) to address the following questions:
 
