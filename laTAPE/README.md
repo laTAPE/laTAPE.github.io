@@ -4,6 +4,8 @@ laTAPE: A Tool for Constructing IoT Applications in Smart Environments
 
 codes: [laTAPE](https://github.com/laTAPE/laTAPE.github.io.git)
 
+<iframe width="560" height="315" src="video/laTAPE.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 We evaluated laTAPE in three environments (smart office, smart building, and smart home) to address the following questions:
 
 RQ1: **Usability** - Can users construct applications to meet requirements across different environmental scenarios?
