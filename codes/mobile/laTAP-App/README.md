@@ -19,8 +19,8 @@ The Task Reminder App is a simple yet powerful task management application that 
 
 - **Home Screen**
   
-  ![Home](images/home.png)
+  <img src="images/home.png" alt=   "Home" height="300">   
 
 - **Add and Update Rules**
   
-  ![Add Task](images/rule.png)
+  <img src="images/rule.png" alt=   "Home" height="300">
